@@ -25,4 +25,11 @@ Masukkan tinggi tabung (cm): 10
 > Output:
 Volume tabung adalah: 1539.38 cm³
 
+# Konsep yang Digunakan
+> Fungsi (Method) dengan Parameter dan Return Value
+Fungsi hitungVolume(double jariJari, double tinggi) digunakan untuk melakukan perhitungan dan mengembalikan hasil.
+> Kelas Scanner untuk membaca input dari pengguna.
+> Konstanta Math.PI untuk nilai π (pi).
+> Format output menggunakan System.out.printf agar hasil lebih rapi.
+
 <img width="1919" height="1011" alt="Screenshot 2025-11-04 163409" src="https://github.com/user-attachments/assets/88793ef8-04ac-4306-968e-704e92d29ed3" />
